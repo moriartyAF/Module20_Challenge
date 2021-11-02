@@ -2,7 +2,6 @@
 
 pragma solidity ^0.5.0;
 
-// Define a new contract named `JointSavings`
 contract JointSavings {
     address payable accountOne;
     address payable accountTwo;
